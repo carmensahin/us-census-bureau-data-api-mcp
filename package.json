@@ -1,0 +1,10 @@
+{
+  "name": "us-census-bureau-data-api-mcp",
+  "version": "0.1.0",
+  "description": "The U.S. Census Bureau Data API MCP connects AI Assistants with official Census Bureau statistics.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
